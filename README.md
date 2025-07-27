@@ -10,15 +10,15 @@ The dataset used is derived from a marketing campaign database, and the objectiv
 
 🎯 Key Objectives
 
-Understand and preprocess customer demographic and transactional data.
+- Understand and preprocess customer demographic and transactional data.
 
-Perform feature engineering (Age, Tenure, Total Spend, etc.).
+- Perform feature engineering (Age, Tenure, Total Spend, etc.).
 
-Apply PCA to reduce noise and retain the most meaningful features.
+- Apply PCA to reduce noise and retain the most meaningful features.
 
-Use KMeans clustering to segment customers into interpretable clusters.
+- Use KMeans clustering to segment customers into interpretable clusters.
 
-Visualize the clusters and extract key insights from each customer group. 
+- Visualize the clusters and extract key insights from each customer group. 
 
 
 
